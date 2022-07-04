@@ -20,6 +20,13 @@ body {
 h2 {
     margin-top: 0;
     padding-top: .8em;
+    display: flex;
+    justify-content: center;
+    color: springgreen;
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 0 0 .5em black;
+    
 }
 
 nav {
